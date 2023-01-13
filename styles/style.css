@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Defult";
+    src: url(../Fonts/MPLUS1p-Medium.ttf);
+}
+body{
+    font-family: Defult;
+    background-color: #040404;
+}
+.middle{
+    margin-top: 4rem;
+}
