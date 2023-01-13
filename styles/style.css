@@ -1,9 +1,13 @@
 @font-face {
-    font-family: "Defult";
+    font-family: "MPLUS";
     src: url(../Fonts/MPLUS1p-Medium.ttf);
 }
+@font-face {
+    font-family: PTSerif;
+    src: url(../Fonts/PTSerif-BoldItalic.ttf);
+}
 body{
-    font-family: Defult;
+    font-family: MPLUS;
     background-color: #040404;
 }
 .middle{
